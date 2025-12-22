@@ -5,7 +5,7 @@
 @layer base {
   :root {
     /* Point Coffee Brand Colors */
-    --background: 40 33% 98%;
+    --background: 210 20% 98%;
     --foreground: 0 0% 18%;
 
     --card: 0 0% 100%;
@@ -19,7 +19,7 @@
     --primary-foreground: 0 0% 100%;
 
     /* Secondary - Warm Off-white */
-    --secondary: 210 20% 98%;
+    --secondary: 36 43% 95%;
     --secondary-foreground: 0 0% 18%;
 
     --muted: 36 20% 94%;
