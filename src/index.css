@@ -19,7 +19,7 @@
     --primary-foreground: 0 0% 100%;
 
     /* Secondary - Warm Off-white */
-    --secondary: 36 43% 95%;
+    --secondary: 210 20% 98%;
     --secondary-foreground: 0 0% 18%;
 
     --muted: 36 20% 94%;
@@ -108,7 +108,12 @@
     @apply bg-background text-foreground font-body antialiased;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply font-heading font-bold tracking-tight;
   }
 }
