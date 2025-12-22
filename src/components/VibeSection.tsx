@@ -59,7 +59,7 @@ export const VibeSection = () => {
   const product = featuredProducts[activeCategory];
 
   return (
-    <section id="menu" className="bg-background py-16 md:py-20">
+    <section id="menu" className="min-h-screen bg-background py-16 md:py-20">
       <div className="container">
         {/* Header */}
         <div className="mb-10 text-center">
