@@ -4,7 +4,7 @@ import { Coffee, MapPin, Menu, X } from "lucide-react";
 import { useState } from "react";
 
 const navLinks = [
-  { label: "About Us", href: "#about" },
+  { label: "About Us", href: "/about" },
   { label: "Menu", href: "/menu" },
   { label: "Promotions", href: "/promotions" },
   { label: "Articles", href: "#articles" },
